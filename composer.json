@@ -42,8 +42,6 @@
         "bin-dir": "bin"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "2.7-dev"
-        }
+        "minimum-stability": "dev"
     }
 }
